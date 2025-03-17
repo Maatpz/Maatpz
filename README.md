@@ -1,8 +1,6 @@
 # Maatpz
 
-<p>Meu nome é Matheus e sou um desenvolvedor web iniciante, estou desenvolvendo especialidades em Html, Css e Javascript.Com o foco em evoluir e criar soluções funcionais, estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.Atualmente curso Sistemas de Informação na Unilasalle/Rj, onde exploro todo esse conhecimento de programaçãoe outros setores que agregam conteúdo para a minha área. Atualmente faço estágio no setor de suporte TI e ajudo na parte administrativaauxiliando no sistema de atendimentos usando crmdo chat helena , auxíliando nas
-atividades diárias da faculdade, comoatendimento ao público, organizaçãode documentos. Monitoramento decomputadores, controle de entrega de notebooks e tablets em sala de aula , configuração de impressoras ecomputadores, suporte ao gestor da área. Acredito que nesse periodo estou aprendendo muito sobre comunicação, agilidade, demanda, paciência entre outras habilidades.</p>
-
+<p>Meu nome é Matheus e sou um desenvolvedor web iniciante, estou desenvolvendo especialidades em Html, Css e Javascript.Com o foco em evoluir e criar soluções funcionais, estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.Atualmente curso Sistemas de Informação na Unilasalle/Rj, onde exploro todo esse conhecimento de programaçãoe outros setores que agregam conteúdo para a minha área. Atualmente faço estágio no setor de suporte TI e ajudo na parte administrativa auxiliando no sistema de atendimentos usando crm , auxíliando nas atividades diárias.</p>
 
 ## GitHub Stats
 
@@ -31,5 +29,5 @@ atividades diárias da faculdade, comoatendimento ao público, organizaçãode d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pizzolato/)
 
 
-# 🔗 Acesse o Portfólio
+## 🔗 Acesse o Portfólio
 https://portfolio-matpz.vercel.app/
