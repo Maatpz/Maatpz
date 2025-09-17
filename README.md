@@ -2,11 +2,6 @@
 
 <p>Meu nome é Matheus e sou um desenvolvedor web iniciante, estou desenvolvendo especialidades em Html, Css e Javascript.Com o foco em evoluir e criar soluções funcionais, estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.Atualmente curso Sistemas de Informação na Unilasalle/Rj, onde exploro todo esse conhecimento de programaçãoe outros setores que agregam conteúdo para a minha área. Atualmente faço estágio no setor de suporte TI e ajudo na parte administrativa auxiliando no sistema de atendimentos usando crm , auxíliando nas atividades diárias.</p>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maatpz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 ### Linguagens
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
