@@ -37,7 +37,7 @@ Utilizo este GitHub para **documentar minha evolução**, publicar **projetos ac
 
 ## 📌 O que você vai encontrar aqui
 
-- 📂 Projetos acadêmicos de **Sistemas de Informação**
+- 📂 Muitos **Projetos acadêmicos**
 - ☕ Projetos **Back-end em Java**
 - 🌐 Aplicações **Web (HTML, CSS, JS)**
 - 🧪 Estudos sobre **APIs REST, banco de dados e boas práticas**
